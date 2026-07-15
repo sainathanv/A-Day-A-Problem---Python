@@ -14,19 +14,6 @@ Every daily problem is solved sequentially using a strict software engineering p
 
 ---
 
-## 📅 The Roadmap & Milestones
-
-### 🟢 Phase 1: Pure Logic Core (Days 1–15)
-*Focus: Structural execution flow, looping control structures, state manipulation over time, and input safety nets.*
-
-### 🟡 Phase 2: Data Engines & Collections (Days 16–45)
-*Focus: Sequences, lists, key-value dictionaries, text manipulation, matrix processing, and internal search/filter algorithms.*
-
-### 🔴 Phase 3: Object-Oriented Architecture (Days 46–75)
-*Focus: System design patterns, Classes, Inheritance, Polymorphism, and file stream handling (I/O operations).*
-
----
-
 ## 📂 Repository Layout
 The project maintains a lightweight, flat file structure for rapid deployment and review:
 ```text
