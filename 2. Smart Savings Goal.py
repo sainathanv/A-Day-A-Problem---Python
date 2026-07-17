@@ -1,3 +1,15 @@
+'''Day 2: The Smart Savings Goal
+
+Scenario: You are building a financial helper script that tracks a user’s progress toward a specific financial savings target over multiple cycles.
+Rules:
+    Set a fixed savings_goal of 1000 and initialize a starting current_savings balance at 0.
+    Use a continuous loop to repeatedly ask the user to input how much money they want to deposit in the current cycle.
+    Update and accumulate the total balance with each loop iteration.
+    Print the updated balance after each deposit.
+
+    The loop must terminate automatically the exact moment the accumulated balance meets or exceeds the target goal, displaying a success completion message.
+'''
+
 def smart_savings(target_goal):
     current_savings = 0  # Keep local state inside the function
     
