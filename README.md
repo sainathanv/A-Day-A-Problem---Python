@@ -1,6 +1,6 @@
 # 🎯 A Day A Problem: Daily Logic & Software Architecture
 
-Welcome to my daily engineering laboratory! This repository tracks my **consistent, 75-day journey** to transform pure logic into bulletproof, production-grade Python software. 
+Welcome to my daily engineering laboratory! This repository tracks my **consistent python journey** to transform pure logic into bulletproof, production-grade Python software. 
 
 Rather than focusing on syntax memorization, this challenge trains my **mental compiler**—forcing me to architect clean pseudocode, map edge cases, and implement structural fault tolerance before writing a single line of production code.
 
@@ -18,5 +18,8 @@ Every daily problem is solved sequentially using a strict software engineering p
 The project maintains a lightweight, flat file structure for rapid deployment and review:
 ```text
 .
-├── Day_01_Bouncer_System.py    # Pseudocode + Python Implementation
+├── Day_01_Bouncer_System.py
+├── Day_02_Smart_Savings.py
+├── Day_03_Simple ATM Withdrawal Gate.py
+├── Day_04_Server Access Firewall.py
 └── README.md                    # You are here
