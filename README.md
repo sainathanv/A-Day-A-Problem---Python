@@ -1,8 +1,8 @@
 # 🎯 A Day A Problem: Daily Logic & Software Architecture
 
-Welcome to my daily engineering laboratory! This repository tracks my **consistent python casual problem** to keep the hands dirty with codes. 
+Welcome to my daily engineering laboratory! This repository tracks my consistent python casual problem to keep the hands dirty with codes. 
 
-Rather than focusing on syntax memorization, this challenge trains my **mental compiler**—forcing me to architect clean pseudocode, map edge cases, and implement structural fault tolerance before writing a single line of production code.
+Rather than focusing on syntax memorization, this challenge trains my mental compiler—forcing me to architect clean pseudocode, map edge cases, and implement structural fault tolerance before writing a single line of production code.
 
 ---
 
