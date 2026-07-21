@@ -15,4 +15,5 @@ The project maintains a lightweight, flat file structure for rapid deployment an
 ├── Day_03_Simple ATM Withdrawal Gate.py
 ├── Day_04_Server Access Firewall.py
 ├── Day_05_Baggage Scanner.py
+├── Day_06_Toll Gate Scanner.py
 └── README.md
