@@ -2,19 +2,12 @@
 
 Scenario: You are architecting the integration software engine for an automated highway toll booth processing a queue of vehicle type indexes while managing transactional state data safely.
 Rules:
-
     Map vehicle metadata across parallel indexed data collections: vehicle_type = ["Motorcycle", "Car", "Truck"] and toll_rates = [5, 10, 20].
-
     Accept an incoming processing queue list containing numeric indexes representing incoming vehicles (e.g., [1, 0, 4, 2, 1]).
-
     Implement clean functional encapsulation: initialize and maintain a local processing balance variable purely inside the function scope, avoiding any structural reliance on the global scope.
-
     Iterate through the queue using an inner safety net block:
-
         Catch index lookup errors cleanly to display an invalid vehicle warning and continue processing the rest of the queue automatically.
-
         Sound an inspection alarm and execute an immediate structural loop break the exact moment a "Truck" (index 2) is identified.
-
         Accumulate appropriate financial rates and print individual receipts for safe vehicles.
 
     Hand the final calculated balance back to the outside driver code using a proper output return statement.
