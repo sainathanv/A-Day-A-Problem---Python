@@ -10,6 +10,7 @@ Rules:
     The loop must terminate automatically the exact moment the accumulated balance meets or exceeds the target goal, displaying a success completion message.
 '''
 
+
 def smart_savings(target_goal):
     current_savings = 0  # Keep local state inside the function
     
