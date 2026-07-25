@@ -1,5 +1,6 @@
 # 9. The System Log De-Duplicator
-'''Day 9: The System Log De-Duplicator
+'''
+Day 9: The System Log De-Duplicator
 
 Scenario: You are building an automated log-cleaning pipeline for a network monitoring tool that receives raw IP addresses and purges repeated entries.
 Rules:
