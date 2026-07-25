@@ -18,4 +18,11 @@ The project maintains a lightweight, flat file structure for rapid deployment an
 ├── Day_06_Toll Gate Scanner.py
 ├── Day_07_Fraud Detector.py
 ├── Day_08_The Guests Registry Lookup.py
+├── Day_09_System Log De-duplicator.py
+├── Day_10_Server Vault.py
+├──|
+├──|
+├──|<----- Summer Course Break ------> 
+├──|
+├──|
 └── README.md
