@@ -1,8 +1,12 @@
-# 🎯 A Day A Problem: Daily Logic & Software Architecture
+# 🐍 Python Logic & Data Structures Core
 
-Welcome to my daily engineering laboratory! This repository tracks my consistent python casual problems to keep the hands dirty with codes. 
+## 📌 Repository Overview
+This repository documents my step-by-step progress in mastering core Python fundamentals, defensive programming, and data structures—coded entirely by hand in bare-bones environments (Python IDLE) to build genuine muscle memory without AI autocompletion.
 
-Rather than focusing on syntax memorization, this challenge trains my mental compiler—forcing me to architect clean pseudocode, map edge cases, and implement structural fault tolerance before writing a single line of production code.
+---
+
+## ⚡ Execution Format: Self-Paced Engineering Sprints
+Originally launched as a strict daily streak challenge, this repository is following a **Self-Paced Mastery Model**. 
 
 ---
 
