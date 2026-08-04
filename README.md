@@ -26,7 +26,7 @@ The project maintains a lightweight, flat file structure for rapid deployment an
 ├── Day_10_Server Vault.py
 ├──|
 ├──|
-├──|<----- Summer Course Break ------> 
+├──|<----- Summer Course & CIE Break ------> 
 ├──|
 ├──|
 ├──|
